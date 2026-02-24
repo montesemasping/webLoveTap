@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1771895685|5748802825';
+const CACHE_VERSION = '1771897204|16571917';
 /** @type {string} */
 const CACHE_PREFIX = 'Love Tap Idle: C-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
