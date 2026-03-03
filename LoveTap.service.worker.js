@@ -4,14 +4,14 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1772504734|744715081';
+const CACHE_VERSION = '1772581703|53752641';
 /** @type {string} */
 const CACHE_PREFIX = 'Love Tap Idle: C-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'LoveTap.offline.html';
 /** @type {boolean} */
-const ENSURE_CROSSORIGIN_ISOLATION_HEADERS = true;
+const ENSURE_CROSSORIGIN_ISOLATION_HEADERS = false;
 // Files that will be cached on load.
 /** @type {string[]} */
 const CACHED_FILES = ["LoveTap.html","LoveTap.js","LoveTap.offline.html","LoveTap.icon.png","LoveTap.apple-touch-icon.png","LoveTap.audio.worklet.js","LoveTap.audio.position.worklet.js"];
