@@ -10,4 +10,4 @@ The page also runs as a Telegram Mini App: it loads `telegram-web-app.js`, expan
 
 This repository holds only the exported build that GitHub Pages serves (`LoveTap.html`, `.wasm`, `.pck`, service worker, icons). The Godot project with the game source lives in a separate private repository.
 
-Versions are tagged by commit message (`0.0.3` to `0.1.2`, February to March 2026).
+Each commit is one build; the commit message is the build version (`0.0.3` to `0.1.2`, February to March 2026).
