@@ -2,9 +2,11 @@
 
 Web export of **Love Tap Idle: Cupid Arrow**, a small idle/clicker game made with Godot 4.5: tap to shoot Cupid's arrows, earn Love Points, buy upgrades, unlock achievements and prestige.
 
-**Play in the browser:** https://montesemasping.github.io/webLoveTap/LoveTap.html
+**Play in Telegram:** [@testlovetap_bot](https://t.me/testlovetap_bot). This is the main way to play: the game runs there as a Telegram Mini App.
 
-The page also runs as a Telegram Mini App: it loads `telegram-web-app.js`, expands to full height and disables vertical swipes when opened inside Telegram.
+Also playable in a desktop or mobile browser: https://montesemasping.github.io/webLoveTap/LoveTap.html
+
+Inside Telegram the page loads `telegram-web-app.js`, expands to full height and disables vertical swipes.
 
 ## What is in this repository
 
